@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34458443/README.md)
 # 日本拼团 · 国际运费系统
 
 用于管理日本拼团的国际运费。普通成员可以查看批次、成员列表和自己的费用明细；
